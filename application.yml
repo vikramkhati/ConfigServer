@@ -1,1 +1,2 @@
-hello.value = Hello World 2
+hello:
+  value: Hello World 2
